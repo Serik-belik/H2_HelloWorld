@@ -7,7 +7,7 @@ int main()
 {
     char chrAnswer;
     char chrHello[] = "Hello World!";
-    string arrColors[] = { "\033[31m", "\033[32m", "\033[33m", "\033[34m", "\033[35m", "\033[36m", "\033[37m" }; // May add more
+    string arrColors[] = { "\033[31m", "\033[32m", "\033[33m", "\033[34m", "\033[35m", "\033[36m", "\033[37m" };
     srand(time(NULL));
 
     do {
